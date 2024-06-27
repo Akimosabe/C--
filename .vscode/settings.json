@@ -2,6 +2,8 @@
     "files.associations": {
         "ostream": "cpp",
         "iosfwd": "cpp",
-        "iostream": "cpp"
-    }
+        "iostream": "cpp",
+        "cstdlib": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Users/USER/Desktop/EDU/C++/LR7"
 }
